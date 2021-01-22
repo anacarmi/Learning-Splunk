@@ -7,6 +7,6 @@ Requirements:
 3. After having your VM awake, run `vagrant ssh`
 4. Download Splunk for Linux in the oficial webpage
 5. Run ` ./opt/splunk/bin/splunk start`
-6. Import The VideoGames dataset and create your own Index (best practice)
+6. Import The [VideoGames](/videogames.csv) dataset or download it from the [webpage]("https://corgis-edu.github.io/corgis/csv/video_games") and create your own Index (best practice)
 7. In `Settings/Searchers,Reports,Alerts` create a new report with the basic search
 7. Create a dashboard and download the XML code so you can see graphs
