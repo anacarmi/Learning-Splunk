@@ -3,7 +3,7 @@ A project using Splunk in a Vagrant Virtual Box
 
 Requirements:
 1. Install Vagrant and Virtual Box
-2. Create a folder, download vagrantfile and run `vagrant up`
+2. Create a folder, download [vagrantfile](/Vagrantfile) and run `vagrant up`
 3. After having your VM awake, run `vagrant ssh`
 4. Download Splunk for Linux in the oficial webpage
 5. Run ` ./opt/splunk/bin/splunk start`
